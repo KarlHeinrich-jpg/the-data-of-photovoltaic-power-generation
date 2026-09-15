@@ -1,0 +1,15 @@
+{
+  "title": "Photovoltaic Power Generation: Multidimensional Indicators, Forecasting, Optimization and Carbon Assessment",
+  "upload_type": "dataset",
+  "description": "Data and exploratory analysis materials accompanying a multidimensional study of photovoltaic power generation. The archive links indicator construction and data-quality checks with power-production forecasting, particle-swarm planning optimization, and scenario-based carbon assessment. It includes tabular inputs and Python/MATLAB scripts for preprocessing, distributional diagnostics, dimensionality reduction, regression, visualization, and optimization. The README documents file organization, methods, assumptions, citation, and licensing limits. Long-horizon projections are scenario estimates rather than production dispatch guarantees, and all results depend on the stated historical definitions and assumptions.",
+  "creators": [
+    {"name": "Fan, Pengying"},
+    {"name": "Chen, Zhenlin"},
+    {"name": "Wang, Yile"}
+  ],
+  "keywords": ["photovoltaic power generation", "renewable energy", "forecasting", "particle swarm optimization", "carbon emissions", "China", "Python", "MATLAB"],
+  "related_identifiers": [
+    {"identifier": "10.3389/fenvs.2026.1799258", "relation": "isSupplementTo", "resource_type": "publication-article"},
+    {"identifier": "https://github.com/KarlHeinrich-jpg/the-data-of-photovoltaic-power-generation", "relation": "isIdenticalTo"}
+  ]
+}
