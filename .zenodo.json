@@ -1,6 +1,7 @@
 {
   "title": "Photovoltaic Power Generation: Multidimensional Indicators, Forecasting, Optimization and Carbon Assessment",
   "upload_type": "dataset",
+  "license": "other-closed",
   "description": "Data and exploratory analysis materials accompanying a multidimensional study of photovoltaic power generation. The archive links indicator construction and data-quality checks with power-production forecasting, particle-swarm planning optimization, and scenario-based carbon assessment. It includes tabular inputs and Python/MATLAB scripts for preprocessing, distributional diagnostics, dimensionality reduction, regression, visualization, and optimization. The README documents file organization, methods, assumptions, citation, and licensing limits. Long-horizon projections are scenario estimates rather than production dispatch guarantees, and all results depend on the stated historical definitions and assumptions.",
   "creators": [
     {"name": "Fan, Pengying"},
